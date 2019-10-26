@@ -1,3 +1,4 @@
 function fn(){
-console.log('hhh');
+	console.log('打算')
+	console.log('hhh');
 }
